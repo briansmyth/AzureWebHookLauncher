@@ -10,3 +10,6 @@ c:\users\briansmyth\documents\visual studio 2015\Projects\WindowsFormsApplicatio
 C:\Users\BrianSmyth.AzureAD\Source\Repos\AzureWebHookLauncher\bin\Debug\WindowsFormsApplication1.exe.config
 C:\Users\BrianSmyth.AzureAD\Source\Repos\AzureWebHookLauncher\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\BrianSmyth.AzureAD\Source\Repos\AzureWebHookLauncher\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\BrianSmyth\Documents\AzureWebHookLauncher\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\BrianSmyth\Documents\AzureWebHookLauncher\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\BrianSmyth\Documents\AzureWebHookLauncher\obj\Debug\WindowsFormsApplication1.pdb
